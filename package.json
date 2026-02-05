@@ -1,0 +1,20 @@
+{
+  "name": "package-sorting-system",
+  "version": "1.0.0",
+  "description": "Robotic arm package sorting function for automated factory",
+  "main": "sort.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "automation",
+    "sorting",
+    "robotics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
